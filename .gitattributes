@@ -1,0 +1,2 @@
+*.xd filter=lfs diff=lfs merge=lfs -text
+design1.xd filter=lfs diff=lfs merge=lfs -text
